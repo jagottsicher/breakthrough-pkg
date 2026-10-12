@@ -1,0 +1,5 @@
+Component: main
+Origin: breakthrough
+Label: breakthrough
+Architecture: amd64
+Description: breakthrough package repository

@@ -1,0 +1,5 @@
+Component: main
+Origin: breakthrough
+Label: breakthrough
+Architecture: arm64
+Description: breakthrough package repository

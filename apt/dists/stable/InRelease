@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: breakthrough
+Label: breakthrough
+Codename: stable
+Date: Mon, 12 Oct 2026 12:13:59 UTC
+Architectures: amd64 arm64
+Components: main
+Description: breakthrough package repository
+MD5Sum:
+ 933e8f4cb1da938cfb39b5146e64e16b 568 main/binary-amd64/Packages
+ 309c5ff1f09f63759110ca1c74e76820 410 main/binary-amd64/Packages.gz
+ ad5ab845d452cd951904595aadb16608 122 main/binary-amd64/Release
+ cd6a388271836ad1874efe494b154376 568 main/binary-arm64/Packages
+ 63cdaef1e8aed296c05e3c8f44301a05 408 main/binary-arm64/Packages.gz
+ f2596e93e1d1db4039add6b84a9f3313 122 main/binary-arm64/Release
+SHA1:
+ 3856530ebb94254f8fd3333a8de943efdcdf9340 568 main/binary-amd64/Packages
+ 021fa8fe2805b0a681066ce2ed657fa8aa5460d3 410 main/binary-amd64/Packages.gz
+ d206f5d77ed314e236ab0c6affeb6b1587d687d8 122 main/binary-amd64/Release
+ 6293e94f8e6ea98002fd6d9f68740b3bee80088f 568 main/binary-arm64/Packages
+ 125bd7c66bb7fe6221286bcdda4ad8a404a016f1 408 main/binary-arm64/Packages.gz
+ 0dbc51844ae990850c5692f40f6b649330b23609 122 main/binary-arm64/Release
+SHA256:
+ 6dc6b60b27727e06080ff06740a271b1f06021047a7b92d89f772b39469b0dbc 568 main/binary-amd64/Packages
+ 74a909a5e8b3e6c72c2e6100661b73cafc36102027bb992f331b290e0cdd07da 410 main/binary-amd64/Packages.gz
+ c37872a2501585b3dd97460e5c6c3f1f1717f1ab81d78d558b2e072068045f46 122 main/binary-amd64/Release
+ 9a5e59391d6177a8aff2c2d7785f48a9b71b84588738b736e0acac7b1a78872e 568 main/binary-arm64/Packages
+ 5099824570fbc52e810c4bfe66e3018b4c699517525bddaa59e4622a0eccb794 408 main/binary-arm64/Packages.gz
+ d49b428dabd63741b400143b89357fa7341243a765f061abdeefd792eb84355f 122 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEo56jN0gsLdJOMDHiTwx1qI9wUqwFAmrMzwcACgkQTwx1qI9w
+UqwhaA/+JSxifkmTvx0/Ob17R9uDtm+smAypYMzUnmoMMEeZcX+y5Ljo4MPumIJn
+nkYzLalAgA1bIACjui5H2cyTUPaLNZy+OXzdggWiES1e93QtrNZmzjxOqfFU8Udi
+oxVlAflxlPMr8bJEA1QnBfXeDbHRDTYeE3zsjgvIo9utTk0D5CY91VgzpVwOZVxf
+BLxKVksTFHg//TeP+Yxb6rXS3pQcE3R5sMDxmy3z1ZVX1q1pvI9CamllmX5EbSKv
+Otstg0bJybAVl7t2bJ7NSbX8RD3mdX/6C1HK/0e4t2n3sZ3RrKv0r9/7p+AgMSCs
+3IKNJmbSDzmIMPqKYdViQP/3AaIp/V76Bi4H7qxKgPJyFMmFhITrgjNogKdv6QIP
+9XCjNngWZxhJEUJs+PZ4UcPmwzxbT3A1Bl1L9vGmVm+MeebOuVzxnzr0dr6DPfnK
+Wxo5TOE21aUgLo2BI1+TBx20HTglR/elNypQOaCCuphAOPLVzq8l5NiMs0Agonel
+eelryZA7GV0cF+l6O8M47ke07KYwckmNClCu2g5eZv6zvF/J11AwIBAz0F42APga
+ZctfEX+VxPLl6uj3IwKe++OqekFO28SBJCFkUx8FMamM6HY89WPyz0y2lQxFDp7U
+UPZskKdz4Z0GuKNJ9WhFfWLGt/CH/pHyGW7H0ASOTEeI4BWTr2A=
+=gnke
+-----END PGP SIGNATURE-----
