@@ -4,44 +4,44 @@ Hash: SHA512
 Origin: breakthrough
 Label: breakthrough
 Codename: stable
-Date: Thu, 15 Oct 2026 10:25:31 UTC
+Date: Thu, 15 Oct 2026 11:36:11 UTC
 Architectures: amd64 arm64
 Components: main
 Description: breakthrough package repository
 MD5Sum:
- 9b8a51add6ad30221b95e7233e9ade37 568 main/binary-amd64/Packages
- e9daa413ea8027e8d27f3286647c4d82 408 main/binary-amd64/Packages.gz
+ 02f27e941a2d8ede60758f8aa730ac0e 568 main/binary-amd64/Packages
+ 1dcc14d85381ed278f27ccab61424c7c 409 main/binary-amd64/Packages.gz
  ad5ab845d452cd951904595aadb16608 122 main/binary-amd64/Release
- 417bc9860697121c9857567dcadfff17 568 main/binary-arm64/Packages
- 841d43a4c014eea228bf0902abbdb5a2 407 main/binary-arm64/Packages.gz
+ a9a482238510a47d3411a19464ddb3ab 568 main/binary-arm64/Packages
+ 68275be0050a400dd76bef61290adbbc 409 main/binary-arm64/Packages.gz
  f2596e93e1d1db4039add6b84a9f3313 122 main/binary-arm64/Release
 SHA1:
- 18a1e8970a8b5c5f6d0843a43ebc5e6c7d772b26 568 main/binary-amd64/Packages
- b226f006211a6f0913bb5e7b88ae6ea8e9ecaf5c 408 main/binary-amd64/Packages.gz
+ 8e8bff125efff51df63f060a6ab7d33d970d5f72 568 main/binary-amd64/Packages
+ 7452bef2d29999ab6ec54c692bb8df57bca5d909 409 main/binary-amd64/Packages.gz
  d206f5d77ed314e236ab0c6affeb6b1587d687d8 122 main/binary-amd64/Release
- 2c01624ec9030d2b2f1e14f3900e8ccda279c136 568 main/binary-arm64/Packages
- 5e7145805820d89b643c4650f8cbcd6081414243 407 main/binary-arm64/Packages.gz
+ 5cebcbbc83fdfbb715322acdd1115297121cbe8e 568 main/binary-arm64/Packages
+ 9bf9374beffd1f312ee6cb176ad47d33dd72e786 409 main/binary-arm64/Packages.gz
  0dbc51844ae990850c5692f40f6b649330b23609 122 main/binary-arm64/Release
 SHA256:
- 0188f23be317c72571d45e8e8eb3e44e430ae3798d9092efa4aaba4e4dded562 568 main/binary-amd64/Packages
- 88895d63b04c8e62da544121b8dce412d46c43d652d329a9394b7aba0e948af4 408 main/binary-amd64/Packages.gz
+ 2e7d02aaa14fcfa13ee67ecd2d42d032a88c69134dca5d2ef75da9267116bc54 568 main/binary-amd64/Packages
+ 2e34e9ce090c126d1e9189b5b409925a692a9009c4d54804733f5e51a1c39d2f 409 main/binary-amd64/Packages.gz
  c37872a2501585b3dd97460e5c6c3f1f1717f1ab81d78d558b2e072068045f46 122 main/binary-amd64/Release
- 41135e3f9866ee2185513526831c87400ed69987bcab0078df80613f9130228f 568 main/binary-arm64/Packages
- 014014abbb5ed3798101496a70aebd068ccdcfd66162d482a421de9e88221f8f 407 main/binary-arm64/Packages.gz
+ e817e1416077ad69ffde4d0e02199df9c3cf1ebe66f8c73c18c81e798c856b4c 568 main/binary-arm64/Packages
+ 1321095f11325d9905251186e9f302868f0eb98949744cf0cc20a1737fb59e14 409 main/binary-arm64/Packages.gz
  d49b428dabd63741b400143b89357fa7341243a765f061abdeefd792eb84355f 122 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEo56jN0gsLdJOMDHiTwx1qI9wUqwFAmrQqhsACgkQTwx1qI9w
-UqwQLQ//eIlL/hDjS82rwQS16QQDHypgz2/audvMb1LCQRUsVMmkhZHeIAxxfFm2
-PjLaerZdJ8qUgD1NtrNnqptZkn2awkO6iPbJx0AjdIc38NZFNbruTNW5AZQaZ4QV
-mpapQCzX51yHy2SiJ3caF0TXs0KWhjXfW+3VqdNIht/e8sICZIG34cdu6qjPAQLC
-mTfJYQd74mqGwijJ1+bX5IgD6KwKqNY1yQHuTjgBplEW80J9ybUsX+oshugTUoLj
-Me4XkIjw1hwj7SpZMPr0nDvRiyDTk3X7Rco+Wm76hV/pefBPIcep5LWvGGKYUEux
-hRjPaBC5lt+I+T55UnniU9MZfvHUlkgP+QqI2WHzgfon+3MB5lUNeT635y6CQeNe
-7NFfRsRaNKYn/kAMLO4DPaOkAQ0hkXFDy+hRflOUwYTPaZyqYAP/rDdjLyCx4csG
-n8z1eLSPiGZueCKzNhaZn1eTNMYDRgbeOWdGJWUH6zi0FKtCJ0mJ9IGOg4gaxSeO
-dIH5kW3Qg3gDprVdF6Wtc50lQcVnZRaSVALlKLA9CxMqTmDwRpe/rI80zBKovxj9
-ywlV9BfvvBqQwjh07qb1VMI96cW0m4uH/W5Q3p+UYoeQZAEEFhcxxa5Trc0YyUtr
-kQfclo7uvZlNxG0//6qHaTPKlHg2EpKQmQdhedFuRdskygEcoH4=
-=ncoo
+iQIzBAEBCgAdFiEEo56jN0gsLdJOMDHiTwx1qI9wUqwFAmrQuqsACgkQTwx1qI9w
+UqzgUhAAjXyD3pNwGEx3cO621JnwkiFDiVs6F/stYJ8Tey8bkRQ2iGTnBg0AUpun
+1FIc855F/fCDDF/8cCYm7Pn2rG6H9XGt+Ip/kMRiIfmGhvC/sfeBQ9sXhBxmG3r+
+KxTzjqHBCi+xZzBDxOfd9tvNCAv/8ExtYM3Anmfg4Balr6qVA4wKEiJuGxXDAtUe
+TIgoNnpEub9lBqPcR3St3+geMoeXx7LyiZgvTxNJjPgSrj+rxrd4aBVt/HAiFhdM
+enBVs5T8vwrSgQ4yy3Ah4twoYOPZGRoBDHx+GE7qheGOLecqWTtJ1FhP1sAjNf+J
+Qc/5d6X17TSWC6wkyigS38tpURwRqfsdOF97HtIjwbup5kzdBlhrwWMq3KD99U4P
+BLng2n7ru8P/EFmHoLnl60Rbtsy9gaYMlVoORmCWXbsvjwBXPs1IBNUdAyCR58Jn
+nIsDVc6cccwPWwr6jAJM+VAMnekgKh9txSr2GufqpWrh9NQXwNYGr3pHp5POGHGP
+j3jooFa6m+1llN7TA6i0T1tPdtUXnF+fuQnDgV0IXhSPpiO/Xizix1QNvrzo44p0
+QXzgQo1sOReOMNZmXEtPYRMchRWhVrP4YF8bJEK3QUZysGjtr5j0YtKaUfVNqR+m
+CGQ7xyzZSV7CepsV5qR0GHRObQrQWng7QKGSbWiZ+Xw1b/EPGV4=
+=PO39
 -----END PGP SIGNATURE-----
