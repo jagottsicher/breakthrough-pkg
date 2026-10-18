@@ -1,15 +1,15 @@
 Package: breakthrough
-Version: 0.78.0
+Version: 0.79.0
 Architecture: amd64
 Maintainer: jagottsicher <jagottsicher@gmx.net>
-Installed-Size: 17207
+Installed-Size: 17211
 Homepage: https://github.com/jagottsicher/breakthrough
 Priority: optional
 Section: 
-Filename: pool/main/b/breakthrough/breakthrough_0.78.0_amd64.deb
-Size: 6444404
-SHA256: 44774cb378e18c1ac1ea1729be4733dd917fb9bfd2bdb74154b0e9b9b7260a5f
-SHA1: 36c777bf53ffb63afe99cf3c64d521def1f77212
-MD5sum: d3b238c85a3f1a7900253a6ad7634286
+Filename: pool/main/b/breakthrough/breakthrough_0.79.0_amd64.deb
+Size: 6445088
+SHA256: 4bac90b99e31d94f1217f8c4e0677fb1e727a4379551be99e4f987a55b038e29
+SHA1: eaa07131f79db099c365b8cb8e5989ef2cb23ea3
+MD5sum: 09d84b3ecc6839e31a4abdeef22e8021
 Description: POSIX-friendly, window/menu-based TUI file manager for the terminal, inspired by the Windows 3.11 UX.
 
