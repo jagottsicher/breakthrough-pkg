@@ -1,28 +1,28 @@
 Origin: breakthrough
 Label: breakthrough
 Codename: stable
-Date: Tue, 20 Oct 2026 11:50:17 UTC
+Date: Tue, 20 Oct 2026 19:11:12 UTC
 Architectures: amd64 arm64
 Components: main
 Description: breakthrough package repository
 MD5Sum:
- 13e35c05e0ea61f231ad24d6b1b83f6f 568 main/binary-amd64/Packages
- daf5be1b7d4c67760d4158444d06eebc 408 main/binary-amd64/Packages.gz
+ aa502631e99279cd3b17fa07962e89ad 568 main/binary-amd64/Packages
+ 424cb9322d506a359e0ce9280a3fc8e4 410 main/binary-amd64/Packages.gz
  ad5ab845d452cd951904595aadb16608 122 main/binary-amd64/Release
- db560ca201e6ad7d141719103942dd73 568 main/binary-arm64/Packages
- b7466174af99a7372ca23c97c42d86e3 409 main/binary-arm64/Packages.gz
+ 60afae4368c2341e1ac42fba383061da 568 main/binary-arm64/Packages
+ f46c5e3d1eeb1d9528f4102a6c9cc8b0 409 main/binary-arm64/Packages.gz
  f2596e93e1d1db4039add6b84a9f3313 122 main/binary-arm64/Release
 SHA1:
- 4f0b42288004e0dcce38bd919a2b06bb073e1554 568 main/binary-amd64/Packages
- 28500751c0f290621dfd04638be9af3f10e5d82e 408 main/binary-amd64/Packages.gz
+ 961894305326d11c6a1b62af7e7fb0c5ae5d6dd0 568 main/binary-amd64/Packages
+ cef1d38c1384ab3c1167402ea6b3390a6f42c247 410 main/binary-amd64/Packages.gz
  d206f5d77ed314e236ab0c6affeb6b1587d687d8 122 main/binary-amd64/Release
- 427656e6c837a26838364570987004367cccef4e 568 main/binary-arm64/Packages
- 65336e624926519d084e08ee6a3b3430e54c8021 409 main/binary-arm64/Packages.gz
+ 2f0e8b7065660d8f0495ee717ef7845f664cfd8a 568 main/binary-arm64/Packages
+ 7c4e1750247c9b58cbe239994fe120a1d2a6861d 409 main/binary-arm64/Packages.gz
  0dbc51844ae990850c5692f40f6b649330b23609 122 main/binary-arm64/Release
 SHA256:
- 4d4610d1d03f191e52433963d73898dad7a4355b05e9cee43940f878d3aadc6f 568 main/binary-amd64/Packages
- 136852c7fea37af88ab7e0862c41340ba6eacc2d27c4f2ba160ebf536999058b 408 main/binary-amd64/Packages.gz
+ 4aec3fd4eb32486b6e9e1f923f37616ecb3d259b46aab3d83c52ef5c185d52f5 568 main/binary-amd64/Packages
+ ef66804d95d0b563d2f0207773e6a2413a3c8fd1911d525f7848ef948d608ca5 410 main/binary-amd64/Packages.gz
  c37872a2501585b3dd97460e5c6c3f1f1717f1ab81d78d558b2e072068045f46 122 main/binary-amd64/Release
- 791e4e1491ae4f95fcb81265e9dfa8851840947f8f6ce23b7df38cad8aedf19d 568 main/binary-arm64/Packages
- 29e2dfd91ea7c64ef22615fb4b42399ebd30b74e7c8e7fe2a4849fc2e31e5649 409 main/binary-arm64/Packages.gz
+ 5fd85c47a324cea2cbe7de0ec78c7ea8920c3c4f3ffc2866661b631725d90771 568 main/binary-arm64/Packages
+ 944757b0bb81c221b393b9d04a7b34ed2c1226183649b0484da0437f8613a095 409 main/binary-arm64/Packages.gz
  d49b428dabd63741b400143b89357fa7341243a765f061abdeefd792eb84355f 122 main/binary-arm64/Release
