@@ -1,28 +1,28 @@
 Origin: breakthrough
 Label: breakthrough
 Codename: stable
-Date: Thu, 22 Oct 2026 15:19:09 UTC
+Date: Thu, 22 Oct 2026 18:36:13 UTC
 Architectures: amd64 arm64
 Components: main
 Description: breakthrough package repository
 MD5Sum:
- 8a2ab45c0c230630c4132ee19cc6ab10 570 main/binary-amd64/Packages
- 3ce2fe77235d1533581600cf67067888 410 main/binary-amd64/Packages.gz
+ 7d605f22b00db209c914674308bc48a5 570 main/binary-amd64/Packages
+ ac7ff2205f57fac0f24269d38ae4821a 408 main/binary-amd64/Packages.gz
  ad5ab845d452cd951904595aadb16608 122 main/binary-amd64/Release
- 74b734b80c95053954f6833d96df815f 570 main/binary-arm64/Packages
- b752a13592aef6374c47f747155f4282 411 main/binary-arm64/Packages.gz
+ 27dd0d329581fa3ec2786e2d17270755 570 main/binary-arm64/Packages
+ 02eaacff291e8e967aded1257a876ff7 412 main/binary-arm64/Packages.gz
  f2596e93e1d1db4039add6b84a9f3313 122 main/binary-arm64/Release
 SHA1:
- a4eef1df95523676acbcc1c62691443572d6b718 570 main/binary-amd64/Packages
- 8c47f5bdbb37fc40925c1226f63717aa82058aa2 410 main/binary-amd64/Packages.gz
+ 1acc7bca94232d62351c020467ff36d60bc10dc1 570 main/binary-amd64/Packages
+ 33afd173cf6f790bcd98396ebc6299ec2e993a1c 408 main/binary-amd64/Packages.gz
  d206f5d77ed314e236ab0c6affeb6b1587d687d8 122 main/binary-amd64/Release
- 0c59c18adc93df4251cd13ac1001ad9912017c66 570 main/binary-arm64/Packages
- c984c7613bea000227c4eab386f2f883e5e7067a 411 main/binary-arm64/Packages.gz
+ a0116908b7950a29fbbe4adfe91e1b62e68aa537 570 main/binary-arm64/Packages
+ 98ea996634b001f9c3440cc66a3c63030720052f 412 main/binary-arm64/Packages.gz
  0dbc51844ae990850c5692f40f6b649330b23609 122 main/binary-arm64/Release
 SHA256:
- cb3c2da75ffad7ca26931297ebd870d22095c4b204db5bdf484fae2c66d3c71a 570 main/binary-amd64/Packages
- 4aab5eb177236091294a4e696ea51580c7186d7fc36a04b52efd64180e730597 410 main/binary-amd64/Packages.gz
+ 9f3b343d6901e1cfc182b3cd182ff97363cf9cc54ac26713d8a4f5070d6efd5c 570 main/binary-amd64/Packages
+ 84908a0850ce5e09a07fef51e03e9e9877d04df01cb76fd3620401ef8e03bc59 408 main/binary-amd64/Packages.gz
  c37872a2501585b3dd97460e5c6c3f1f1717f1ab81d78d558b2e072068045f46 122 main/binary-amd64/Release
- a1212c30b7f4db3ec0853c989e738621b49ec7c24dada0457fcbf1a0023ce1fc 570 main/binary-arm64/Packages
- 036542216cac851dbb051964eaa5a6e04aa09d01f230787e033954f082570ab9 411 main/binary-arm64/Packages.gz
+ 122f15e426744ecd3090e365a9be6cfbc0899b21b5255272df0826b04468bf65 570 main/binary-arm64/Packages
+ f5e491b732f929a16d3e7bde076b3299b5c5159e3e1d5ef3ef5a01e1baa1efdc 412 main/binary-arm64/Packages.gz
  d49b428dabd63741b400143b89357fa7341243a765f061abdeefd792eb84355f 122 main/binary-arm64/Release
