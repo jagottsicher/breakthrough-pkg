@@ -1,7 +1,7 @@
 Origin: breakthrough
 Label: breakthrough
 Codename: stable
-Architectures: amd64 arm64
+Architectures: amd64 arm64 armhf
 Components: main
 Description: breakthrough package repository
 SignWith: 4F0C75A88F7052AC
