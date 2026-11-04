@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>breakthrough package repository</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body{font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:#0b0f14;color:#dbe4ec;max-width:720px;margin:60px auto;padding:0 20px;line-height:1.6}
+h1{color:#fff}
+code,pre{background:#15191f;padding:2px 6px;border-radius:4px;color:#dbe4ec;display:block;white-space:pre-wrap;padding:16px;margin:12px 0}
+a{color:#5fe085}
+</style>
+</head>
+<body>
+<h1>breakthrough package repository</h1>
+<p>APT and RPM repository metadata for <a href="https://github.com/jagottsicher/breakthrough">breakthrough</a>, a TUI file manager for Linux sysadmins. Packages are built and signed automatically from tagged GitHub releases.</p>
+
+<h2>Debian / Ubuntu (apt)</h2>
+<pre>curl -fsSL https://pkg.breakthrough.jens-schendel.com/signing-key.asc | sudo gpg --dearmor -o /usr/share/keyrings/breakthrough.gpg
+echo "deb [signed-by=/usr/share/keyrings/breakthrough.gpg] https://pkg.breakthrough.jens-schendel.com/apt stable main" | sudo tee /etc/apt/sources.list.d/breakthrough.list
+sudo apt update
+sudo apt install breakthrough</pre>
+
+<h2>Fedora / RHEL / openSUSE (dnf/zypper)</h2>
+<pre>sudo rpm --import https://pkg.breakthrough.jens-schendel.com/signing-key.asc
+sudo tee /etc/yum.repos.d/breakthrough.repo &lt;&lt;'EOF'
+[breakthrough]
+name=breakthrough
+baseurl=https://pkg.breakthrough.jens-schendel.com/rpm/stable/$basearch
+enabled=1
+gpgcheck=1
+gpgkey=https://pkg.breakthrough.jens-schendel.com/signing-key.asc
+EOF
+sudo dnf install breakthrough</pre>
+
+<p>Signing key: <a href="/signing-key.asc">signing-key.asc</a></p>
+<p>Source and issues: <a href="https://github.com/jagottsicher/breakthrough">github.com/jagottsicher/breakthrough</a></p>
+</body>
+</html>
