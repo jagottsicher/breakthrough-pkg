@@ -1,15 +1,15 @@
 Package: breakthrough
-Version: 0.103.1
+Version: 0.103.2
 Architecture: armhf
 Maintainer: jagottsicher <jagottsicher@gmx.net>
-Installed-Size: 20050
+Installed-Size: 20114
 Homepage: https://github.com/jagottsicher/breakthrough
 Priority: optional
 Section: 
-Filename: pool/main/b/breakthrough/breakthrough_0.103.1_armhf.deb
-Size: 7710510
-SHA256: c1bd5bd7d81694b46bcb558d23566889bcd2c4abdf82745ff66d06d0c94b1c73
-SHA1: e92cf95a694c582021008419e4219f3d8c0c9392
-MD5sum: 0a33e0d25e433dc8cf856b5e142f9892
+Filename: pool/main/b/breakthrough/breakthrough_0.103.2_armhf.deb
+Size: 7718972
+SHA256: 1b6b1ffaaf192abae500249f3a9e38c2dfe8d0c2083be641905a9587c4e3e4aa
+SHA1: bf2fa19b801dead6ac85633318a401a4a3324a22
+MD5sum: c7187a39b10d549fa075e1b6efb8115b
 Description: POSIX-friendly, window/menu-based TUI file manager for the terminal, inspired by the Windows 3.11 UX.
 
